@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Top 10 Reasons Why To Go To Jaco</title>
+<style>
+
+<nav>
+  <ul>
+    <li><a href="page1">Home</a></li>
+    <li><a href="page2">About</a></li>
+    <li><a href="page3">Services</a></li>
+  </ul>
+</nav>
+
+nav {
+  background: #f1f1f1;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  padding: 5px;
+}
+
+nav ul li a:hover {
+  color: #666;
+}
+
+</style>
+	</head>
+
+	<body>
+
+
+<hr>
+
+<h3><u>Backround</u></h3>
+<p>Top 10 Reasons Why To Go To Jaco</p>
+
+<hr>
+
+<h3><u>Hobbies:</h3>
+<ul>
+<li>Gaming</li>
+<li>Learning Business Skills</li>
+<li>Cooking</li>
+</ul>
+</u>
+<hr>
+
+<h3><u>Dream Vacation</u></h3>
+<p>My dream vacation would be to go to Greece. The place just looks so pretty and I've heard from a good handful of people that it's as beautiful as it looks on the images. The buildings look so majestic and the ocean view right next to the buildings is just magnificent.</p>
+<a href="https://www.lonelyplanet.com/articles/tips-greece-island-hopping"><img src="greece.jpg" width="500px" height="300px"></a>
+
+<hr>
+
+<h2>Favorite quote!:</h2>
+<blockquote><em>"Death is a gift for it makes you feel free."</em></blockquote>
+
+<nav>
+<a href="index.html">Page 1</a>
+<a href="page2.html">Page 2</a>
+<a href="page3.html">Page 3</a>
+
+</nav>
+
+<footer>
+<p>&copy; LLC Nic T</p>
+</footer>
+
+	</body>
+</html>
+
+
